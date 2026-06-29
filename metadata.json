@@ -1,0 +1,6 @@
+{
+  "name": "Laporan Anggaran KOREM 174/ATW",
+  "description": "Dashboard Laporan Anggaran Final V3 untuk KOREM 174/ATW dengan grafik realisasi, pencarian, mode gelap, dan ekspor PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
